@@ -1,0 +1,21 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.log
+
+# Optional: output files (uncomment if needed)
+# results_sample.txt
